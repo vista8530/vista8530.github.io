@@ -21,4 +21,4 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 
 
 
-![d](C:\GIT\vista8530.github.io\images\2019-04-13-first-post\d-16341095927801.jpg)
+![d](../images/2019-04-13-first-post/d-16341099722631.jpg)
