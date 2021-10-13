@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Main Page"
+    url: https://vista8530.github.io
+  - title: "tags"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Windows Server"
+    url: /windowserver/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
