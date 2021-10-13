@@ -9,14 +9,6 @@ tags:
 last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
-
-
-<img src="C:\GIT\vista8530.github.io\vista8530.github.io\images\2019-04-13-first-post\re.PNG" alt="re" style="zoom:33%;" />
-
-
-
-
-
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.
 
@@ -27,4 +19,3 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 이 글의 제목은 {{ page.title }}이고
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
 
-![d](C:\GIT\vista8530.github.io\vista8530.github.io\images\2019-04-13-first-post\d.jpg)
