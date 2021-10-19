@@ -4,9 +4,17 @@ main:
     url: https://vista8530.github.io
   - title: "tags"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Windows Server"
-    url: /windowserver/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Active Directory(MS/Azure)"
+    url: /AD/
+  - title: "Batch"
+    url: /collection-archive/
+  - title: "PowerShell"
+     url: /sitemap/
+  - title: "DB"
+     url: /sitemap/
+  - title: "VMware"
+     url: /sitemap/
+  - title: "Github"
+     url: /sitemap/
+  - title: "Change auditor"
+     url: /sitemap/
