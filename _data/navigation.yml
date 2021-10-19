@@ -8,11 +8,3 @@ main:
     url: /batch/
   - title: "PowerShell"
      url: /powershekl/
-  - title: "DB"
-     url: /db/
-  - title: "VMware"
-     url: /vmware/
-  - title: "Github"
-     url: /github/
-  - title: "Change auditor"
-     url: /change/
