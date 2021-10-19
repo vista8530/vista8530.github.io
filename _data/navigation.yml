@@ -6,3 +6,11 @@ main:
     url: /AD/
   - title: "VMware"
     url: /vmware/
+  - title: "Database"
+    url: /DB/
+  - title: "GitHub"
+    url: /github/
+  - title: "Powershell"
+    url: /shell/
+  - title: "Batch"
+    url: /batch/
