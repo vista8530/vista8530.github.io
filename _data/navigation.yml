@@ -4,3 +4,15 @@ main:
     url: https://vista8530.github.io
   - title: "Active Directory(MS/Azure)"
     url: /AD/
+- title: "Batch"
+    url: /batch/
+  - title: "PowerShell"
+     url: /powershekl/
+  - title: "DB"
+     url: /db/
+  - title: "VMware"
+     url: /vmware/
+  - title: "Github"
+     url: /github/
+  - title: "Change auditor"
+     url: /change/
