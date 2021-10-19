@@ -2,8 +2,6 @@
 main:
   - title: "Main Page"
     url: https://vista8530.github.io
-  - title: "tags"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Active Directory(MS/Azure)"
     url: /AD/
   - title: "Batch"
