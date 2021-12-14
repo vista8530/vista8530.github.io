@@ -2,17 +2,5 @@
 main:
   - title: "Main Page"
     url: https://vista8530.github.io
-  - title: "Active Directory(MS/Azure)"
-    url: /AD/
-  - title: "VMware"
-    url: /vmware/
-  - title: "Database"
-    url: /DB/
-  - title: "GitHub"
-    url: /github/
-  - title: "Powershell"
-    url: /shell/
-  - title: "Batch"
-    url: /batch/
-  - title: "Quest SW"
-    url: /quest/
+ 
+
